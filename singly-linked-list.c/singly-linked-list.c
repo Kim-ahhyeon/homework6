@@ -10,7 +10,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-/* �꾩슂�� �ㅻ뜑�뚯씪 異붽� */
+/* singly linked list*/
 
 typedef struct Node {  
 	int key;            //정수 변수 key 선언
